@@ -91,3 +91,16 @@ This workflow is fully documented to guarantee reproducibility and to allow for 
     *   93.2% of species are associated with at least 2 documents.
 
 ---
+
+---
+
+### 🤝 Contributing and Future Work
+
+We welcome contributions to improve TaxoBio-MX. Future work includes:
+
+*   Incremental updates to incorporate new species added to the EncicloVida catalog.
+*   Expansion to include more taxonomic groups (e.g., Plantae, Fungi).
+*   Integration with biodiversity knowledge graphs to represent semantic relationships.
+*   Development of benchmarks for specific NLP tasks (e.g., question answering, summarization).
+
+For questions, suggestions, or collaborations, please open an issue on this repository or contact the authors directly.
