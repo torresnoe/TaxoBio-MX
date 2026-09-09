@@ -1,0 +1,23 @@
+- **Estado de conservación:** Sujeta a protección especial (Pr) según NOM-059-SEMARNAT-2010. En peligro de extinción según la NOM-059-SEMARNAT-2001 y 2010.
+- **Estado poblacional:** Aumenta, aunque se ha reducido en un 80% su extensión original en México.
+- **Taxonomía:** 
+  - Reino: Animalia
+  - Filo: Chordata
+  - Subfilo: Vertebrata
+  - Clase: Mammalia
+  - Subclase: Theria
+  - Infraclase: Placentalia
+  - Orden: Carnivora
+  - Familia: Ursidae
+  - Género: Ursus
+  - Especie: americanus
+  - Subespecie: eremicus Merriam, 1904
+- **Nombres comunes/locales:** Oso negro mexicano.
+- **Descripción física:** Carnívoro grande y robusto con desplazamiento plantígrado. Tiene 5 dedos con garras no retráctiles, garras cortas negras y ganchudas (menores a 50 mm). El pelaje es denso de color negro uniforme, corto, lacio y oscuro; el hocico es café pálido. La cabeza redondeada, con orejas pequeñas y redondas. Medidas externas: largo total entre 1.3 a 2 m, cola vertebral entre 10 a 13 cm, pata trasera entre 21.5 a 28 cm, oreja entre 12 y 14 cm; longitud máxima del cráneo de 24.4 a 31.5 cm. Peso corporal varía de 60-140 kg en machos y 40-70 kg en hembras.
+- **Hábitat y Distribución:** Se encuentra en las montañas del noreste de México, específicamente en la Sierra de San Luis (Sonora), centro y oeste de Chihuahua, Sierra del Carmen y Serranías del Burro en Coahuila, y la Sierra Madre Oriental y Sierra Picachos en Nuevo León. El hábitat ha reducido su cobertura original en un 47%.
+- **Comportamiento social:** Solitarios excepto grupos de hembras con crías; tienen una marcada territorialidad entre las hembras, que señalan sus territorios con orina y marcas de garras. Los machos no tienen territorio pero se mueven dentro de zonas bien delimitadas.
+- **Reproducción y Ciclo de Vida:** Copula sin cortejo aparente; el embarazo dura 220 días, incluyendo un retardo en la implantación. Nacimientos ocurren entre enero y febrero mientras las hembras están hibernando. Usualmente dan a luz una a cinco crías que pesan de 200 a 450 gramos al nacer; permanecen con su madre hasta los 17 meses.
+- **Dieta:** Se alimenta de bayas silvestres, bellotas (Quercus spp.), pastos, nueces, brotes y hojas suculentas. También consume roedores e incluso herbívoros como venado cola blanca, zorrillos y aves.
+- **Rol ecológico y Depredadores:** Actúa como dispersor de semillas; es importante para el control poblacional de herbívoros y auxilia en la germinación de semillas. Tiene pocos depredadores, pero los oseznos tienen una baja tasa de supervivencia (0.8%) debido a ataques de otros osos negros, pumas, linces, águilas y coyotes.
+- **Importancia cultural/económica:** Importante para la peletería, alta cocina y medicina tradicional; su piel se utiliza en peletería, carne es comestible, grasa para cocinar y curtir cueros. Es un atractivo turístico y parte de la idiosincrasia de pueblos nativos.
+- **Conservación y Amenazas:** Principal amenaza es la cacería furtiva; otras amenazas incluyen desarrollo urbano, fragmentación del hábitat y el muro fronterizo entre México y E.U.A. que limita el flujo génico entre poblaciones.
