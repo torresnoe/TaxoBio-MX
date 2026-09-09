@@ -33,7 +33,7 @@ TaxoBio-MX integrates and normalizes textual content from four complementary and
 
 To facilitate its use in NLP systems, TaxoBio-MX follows a hierarchical directory structure that mirrors biological taxonomy:
 
-`kingdom -> phylum -> class -> order -> family -> genus -> species`
+`kingdom -> phylum -> class -> order  -> species`
 
 Each species is stored in its own dedicated directory, named with a unique numerical identifier and its scientific name (e.g., `34460-panthera-onca`). This directory contains the textual documents retrieved from the different sources, ensuring clear provenance and easy programmatic access.
 
@@ -41,15 +41,15 @@ Each species is stored in its own dedicated directory, named with a unique numer
 
 The corpus includes the following seven document types, each with a specific naming convention:
 
-| Document Type | Source | Description |
-| :--- | :--- | :--- |
-| `CONABIO_description.txt` | EncicloVida | Detailed species description. |
-| `CONABIO_summary.txt` | EncicloVida | Concise summary of the species. |
-| `CONABIO_Technical.txt` | EncicloVida | Technical or scientific data sheets. |
-| `Wikipedia_es.txt` | Wikipedia | Article in Spanish. |
-| `Wikipedia_en.txt` | Wikipedia | Article in English. |
-| `IUCN_*.txt` | IUCN Red List | Conservation status and ecological information. |
-| `GBIF_*.txt` | GBIF | Taxonomic and occurrence data. |
+| Document Type | Source |
+| :--- | :--- | 
+| `CONABIO_description.txt` | EncicloVida | 
+| `CONABIO_summary.txt` | EncicloVida | 
+| `CONABIO_Technical.txt` | EncicloVida | 
+| `Wikipedia_es.txt` | Wikipedia | 
+| `Wikipedia_en.txt` | Wikipedia | 
+| `IUCN_*.txt` | IUCN Red List |
+| `GBIF_*.txt` | GBIF | 
 
 ---
 
@@ -86,9 +86,6 @@ This workflow is fully documented to guarantee reproducibility and to allow for 
 | IUCN | 1,992 |
 | GBIF | 1,114 |
 
-*   **Document Coverage per Species:**
-    *   50.6% of species (1,301) have 5 or more documents.
-    *   93.2% of species are associated with at least 2 documents.
 
 ---
 
@@ -104,3 +101,5 @@ We welcome contributions to improve TaxoBio-MX. Future work includes:
 *   Development of benchmarks for specific NLP tasks (e.g., question answering, summarization).
 
 For questions, suggestions, or collaborations, please open an issue on this repository or contact the authors directly.
+
+---
