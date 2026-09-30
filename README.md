@@ -74,17 +74,6 @@ This workflow is fully documented to guarantee reproducibility and to allow for 
 *   **Total Species:** 2,571
 *   **Total Documents:** 11,027
 *   **Taxonomic Coverage:** 5 Phyla, 21 Classes
-*   **Document Distribution by Type:**
-
-| Document Type | Count |
-| :--- | :--- |
-| CONABIO_description | 1,365 |
-| CONABIO_summary | 523 |
-| CONABIO_Technical | 2,571 |
-| Wikipedia_es | 1,504 |
-| Wikipedia_en | 1,958 |
-| IUCN | 1,992 |
-| GBIF | 1,114 |
 
 
 ---
